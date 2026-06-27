@@ -176,6 +176,16 @@ Decrease stockout events by anticipating future demand more accurately.
 
 ---
 
+## Deployment
+
+The application has been deployed using **Streamlit Community Cloud** for easy access and interactive predictions.
+
+### Live Demo
+
+https://demandforecastingmodel-hdsu3rm5pwkvgm5jabafjb.streamlit.app/
+
+---
+
 ## Key Takeaways
 
 * Historical demand is a strong predictor of future demand.
